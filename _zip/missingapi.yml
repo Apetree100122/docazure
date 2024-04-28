@@ -1,26 +1,29 @@
-### YamlMime:XRefMap
-hrefUpdated: true
+# # # Yaml Mime: X Ref Map
+href:
+Updated: true
 references:
-- uid: System.Diagnostics.PresentationTraceSources.TraceLevel*
-  href: https://msdn.microsoft.com/library/system.diagnostics.presentationtracesources.tracelevel.aspx
-  name: TraceLevel
-  name.vb: TraceLevel
-  fullName: PresentationTraceSources.TraceLevel
-  fullName.vb: PresentationTraceSources.TraceLevel
-- uid: System.Windows.Controls.Validation.HasError*
-  href: https://msdn.microsoft.com/library/system.windows.controls.validation.haserror
-  name: HasError
-  name.vb: HasError
-  fullName: Validation.HasError
-  fullName.vb: Validation.HasError
-- uid: System.Windows.Controls.Validation.Errors*
-  href: https://msdn.microsoft.com/library/system.windows.controls.validation.errors.aspx
+uid: 
+[ "System.Diagnostics.PresentationTraceSources.TraceLevel ] *href:
+[ "https://msdn.microsoft.com/library/system.diagnostics.presentationtracesources.tracelevel.aspx ]
+ name: Trace
+ name.vb: Level
+  fullName: Presentation
+  TraceSources.TraceLevel
+  fullName.vb: PresentationTrace
+  Sources.TraceLevel
+- uid: System.Windows.Controls
+.Validation.HasError*href: https://msdn.microsoft.com/library/system.windows.controls
+.validation.haserror name: HasError
+  name
+  .vb: HasError fullName: 
+  Validation.HasError
+  fullName.vb: Validation.HasError uid: System.Windows
+  .Controls.Validation.Errors*href:
+  https://msdn.microsoft.com/library/system.windows.controls.validation.errors.aspx
   name: Errors
   name.vb: Errors
-  fullName: Validation.Errors
-  fullName.vb: Validation.Errors
-- uid: System.Windows.Localization.Attributes*
-  href: https://msdn.microsoft.com/library/system.windows.localization.attributes.aspx
+  fullName: Validation.Errors fullName.vb: Validation.Errors
+- uid: System.Windows.Localization.Attributes*href: https://msdn.microsoft.com/library/system.windows.localization.attributes.aspx
   name: Attributes
   name.vb: Attributes
   fullName: Localization.Attributes
@@ -34,12 +37,11 @@ references:
 - uid: System.Windows.Shell.WindowChrome.ResizeGripDirection*
   href: https://msdn.microsoft.com/library/system.windows.shell.windowchrome.resizegripdirection.aspx
   name: ResizeGripDirection
-  name.vb: ResizeGripDirection
-  fullName: WindowChrome.ResizeGripDirection
-  fullName.vb: WindowChrome.ResizeGripDirection
-- uid: System.Windows.VisualStateManager.VisualStateGroups*
-  href: https://msdn.microsoft.com/library/system.windows.visualstatemanager.visualstategroups.aspx
-  name: VisualStateGroups
-  name.vb: VisualStateGroups
-  fullName: VisualStateManager.VisualStateGroups
-  fullName.vb: VisualStateManager.VisualStateGroups
+  name.vb: ResizeGripDirection fullName: Window
+  Chrome.ResizeGripDirection full
+  Name.vb: WindowChrome.ResizeGripDirection uid: System.Windows
+  .VisualStateManager.VisualStateGroups*href: 
+https://msdn.microsoft.com/library/system.windows.visualstatemanager.visualstategroups.aspx name:
+  VisualStateGroups name.vb: Visual
+  StateGroups full Name: VisualStateManager.VisualStateGroups fullName.vb:
+  VisualStateManager.VisualStateGroups
