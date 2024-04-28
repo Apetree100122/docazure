@@ -1,30 +1,13 @@
 {
-    "markdown.docsetName": "dotnet",
-    "markdown.docsetRootFolderName": "docs",
-    "markdown.docsetLanguages": [
-        ".NET Core CLI",
-        "ASP.NET (C#)",
-        "ASPX",
-        "Azure CLI",
-        "Bash",
-        "C#",
-        "C++",
-        "Dockerfile",
-        "F#",
-        "HashiCorp Configuration Language (HCL)",
-        "HTML",
-        "Ini",
-        "JavaScript",
-        "JSON",
-        "Kusto",
-        "Markdown",
-        "PowerShell",
-        "Protocol Buffers",
-        "Razor CSHTML",
-        "SQL",
-        "VB.NET",
-        "XAML",
-        "XML",
-        "YAML"
-    ]
+    "markdown.doc set Name":
+    "dotnet","markdown.doc set Root Folder Name": "docs",
+    "markdown.doc set Languages": [".NET Core CLI","ASP.NET C#","ASP X",
+        "Azure CLI","Bash","C#","C++",
+        "Dockerfile","F #",
+        "HashiCorp Configuration Language : HCL",
+        "HTML", "Ini","JavaScript",
+        "JSON","Kusto","Markdown","PowerShell",
+"Protocol Buffers",
+        "Razor CSHTML","SQL","VB.NET", 
+        "XAML", "XML","YAML" ]
 }
