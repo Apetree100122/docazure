@@ -1,5 +1,2 @@
-{
-    "recommendations": [
-        "docsmsft.docs-authoring-pack"
-    ]
-}
+{ "recommendation":
+ ["docsmsft.docs_authoring_pack" ]}
